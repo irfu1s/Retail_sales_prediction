@@ -6,6 +6,17 @@ This project aims to predict retail store sales using historical data that inclu
 Built with multiple regression models and evaluated to find the most accurate one — perfect for real-world forecasting use cases.
 
 ---
+# 🛍️ Retail Sales Prediction
+
+A machine learning project that predicts weekly sales for retail stores using XGBoost.
+
+🚀 **Live Demo**: [Click here to try the app](https://irfu1s-retail-sales-prediction.streamlit.app/)
+
+📊 Built with: XGBoost, Pandas, Streamlit  
+🔍 Dataset: Walmart Retail Sales Data (cleaned)
+
+---
+
 
 ## 📂 Datasets Used
 - `train.csv`: Weekly sales data
